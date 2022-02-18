@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirstLesson</string>
+    <string name="btn_click">Щёлкни по мне</string>
+    <string name="btn_clear">Очистить</string>
+</resources>
